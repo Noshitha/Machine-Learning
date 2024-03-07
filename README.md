@@ -6,8 +6,6 @@ This repository contains implementations of basic machine learning algorithms wr
 
 - [Algorithms](#algorithms)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Algorithms
 
