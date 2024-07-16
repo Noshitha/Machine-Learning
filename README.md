@@ -39,5 +39,5 @@ Neural Networks are a set of algorithms inspired by the human brain, designed to
 To use these implementations, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/Noshitha/ML-Algorithms-From-Scratch.git
-2. Navigate to the desired algorithm directory and run the corresponding code
+   git clone https://github.com/Noshitha/Machine-Learning.git
+3. Navigate to the desired algorithm directory and run the corresponding code
